@@ -1,0 +1,41 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=05f28009_002D9ece_002D472c_002D80c0_002D2e481fc9f489/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2162c659_002Dc520_002D4177_002D851d_002Def2d9a078e51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=456ac55c_002D234d_002D46bf_002Da86a_002D477aaca8d51a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::PetUnitTest.PetUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.StoreUnitTest.storeOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.StoreUnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ccd92b5d_002D704b_002D40e9_002D812d_002De9bae82787d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ce3c56fe_002Da11d_002D480a_002D9f61_002D1ae415050252/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3c725ea_002D33dc_002D41c6_002Da97e_002D652c2ee79b2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.StoreUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.UserUnitTest.createWithArray&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.UserUnitTest.createWithList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.UserUnitTest.getByUserName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.UserUnitTest.updateUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.UserUnitTest.deleteUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.UserUnitTest.login&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.UserUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::PetUnitTest.PetUnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
