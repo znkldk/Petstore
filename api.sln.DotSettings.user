@@ -23,7 +23,7 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ce3c56fe_002Da11d_002D480a_002D9f61_002D1ae415050252/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::api_test.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::96B3C47C-4A99-437C-BC90-F7D022FFB67B::net7.0::PetUnitTest.PetUnitTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3c725ea_002D33dc_002D41c6_002Da97e_002D652c2ee79b2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
